@@ -1,0 +1,212 @@
+********************************************** Critical Needs Attention: **********************************************
+Continous_Testing 
+Owner: Sankar MohanLingam 
+Values: 32.0 out of 32.0 
+Percent used: 100% 
+
+MedD_NEJE_Consumer 
+Owner: Maninder Shergill 
+Values: 121.6 out of 122.4 
+Percent used: 99% 
+
+MedD_SSI 
+Owner: Maninder 
+Values: 201.7 out of 203.5 
+Percent used: 99% 
+
+ECCM_QA 
+Owner: None 
+Values: 243.8 out of 247.0 
+Percent used: 98% 
+
+MedD 
+Owner: Maninder 
+Values: 301.9 out of 308.0 
+Percent used: 98% 
+
+MOBILE_CAREMARK_FUNCTIONAL 
+Owner: Maksim 
+Values: 162.2 out of 166.9 
+Percent used: 97% 
+
+SFDC_Apttus 
+Owner: Carol Dill 
+Values: 377.9 out of 390.0 
+Percent used: 96% 
+
+MedD_NEJE 
+Owner: Maninder 
+Values: 105.6 out of 110.3 
+Percent used: 95% 
+
+DESKTOP_CARESOURCE 
+Owner: None 
+Values: 73.6 out of 77.0 
+Percent used: 95% 
+
+SinglePA_Automation 
+Owner: Jon Hays 
+Values: 40.1 out of 42.1 
+Percent used: 95% 
+
+MOBILE_SPECIALTY 
+Owner: Retired 
+Values: 20.8 out of 22.2 
+Percent used: 93% 
+
+DESKTOP_CVS 
+Owner: Deepa Silina 
+Values: 416.0 out of 453.4 
+Percent used: 91% 
+
+MOBILE_CAREMARK_BACKUP 
+Owner: Maksim 
+Values: 30.1 out of 32.9 
+Percent used: 91% 
+
+MOBILE_CVS_FUNCTIONAL 
+Owner: Deepa Silina 
+Values: 235.3 out of 258.3 
+Percent used: 91% 
+
+DESKTOP_ADVC 
+Owner: Dikran Tokmakjian 
+Values: 21.5 out of 23.7 
+Percent used: 90% 
+
+Digital_Services 
+Owner: Deepa Silina 
+Values: 221.4 out of 244.2 
+Percent used: 90% 
+
+DESKTOP_CAREMARK 
+Owner: Maksim 
+Values: 169.7 out of 188.5 
+Percent used: 90% 
+
+MOBILE_CAREMARK_SIT3 
+Owner: Retired 
+Values: 33.0 out of 36.7 
+Percent used: 89% 
+
+DESKTOP_CCA_COS_STP 
+Owner: Anumolu, Dinakar 
+Values: 29.6 out of 33.1 
+Percent used: 89% 
+
+DESKTOP_DMR_QA 
+Owner: Maksim 
+Values: 1.5 out of 1.7 
+Percent used: 88% 
+
+DESKTOP_SPECIALTY 
+Owner: Maksim 
+Values: 26.6 out of 30.3 
+Percent used: 87% 
+
+DESKTOP_COS 
+Owner: Vandana 
+Values: 55.6 out of 63.5 
+Percent used: 87% 
+
+SFDC_Apttus_TRAINING 
+Owner: None 
+Values: 11.5 out of 13.5 
+Percent used: 85% 
+
+DESKTOP_PEOPLESAFE 
+Owner: Niloy Das 
+Values: 29.6 out of 35.3 
+Percent used: 83% 
+
+MOBILE_SFDC_APTTUS 
+Owner: Carol Dill 
+Values: 4.6 out of 5.5 
+Percent used: 83% 
+
+DESKTOP_PFO_FINANCE 
+Owner: Maninder 
+Values: 2.6 out of 3.2 
+Percent used: 81% 
+
+SFDC_VendorCollaboration 
+Owner: Carol Dill 
+Values: 1.6 out of 2.0 
+Percent used: 80% 
+
+CVS_DESKTOP 
+Owner: None 
+Values: 64.6 out of 83.8 
+Percent used: 77% 
+
+
+**********************************************  Mid Critical: ********************************************** 
+MOBILE_CVS 
+Owner: None 
+Values: 20.1 out of 26.9 
+Percent used: 74% 
+
+DESKTOP_CAS_REGRESSION 
+Owner: Naveen 
+Values: 231.8 out of 329.2 
+Percent used: 70% 
+
+MOBILE_SPECIALTY_FUNCTIONAL 
+Owner: Maksim 
+Values: 3.6 out of 5.3 
+Percent used: 67% 
+
+MOBILE_CAREMARK_REGRESSION 
+Owner: None 
+Values: 6.6 out of 10.2 
+Percent used: 64% 
+
+MOBILE_CAREMARK 
+Owner: Maksim 
+Values: 4.7 out of 8.1 
+Percent used: 58% 
+
+CVS_Functional 
+Owner: Retired 
+Values: 18.3 out of 31.8 
+Percent used: 57% 
+
+Anthem_E2E_Automation_POC 
+Owner: ACOE 
+Values: 45.1 out of 81.5 
+Percent used: 55% 
+
+
+**********************************************  Low Critical:********************************************** 
+CAREMARK_DESKTOP 
+Owner: Maksim 
+Values: 6.5 out of 14.8 
+Percent used: 43% 
+
+
+********************************************** Not Critical: **********************************************
+DESKTOP_PEOPLESAFE_REGRESSION 
+Owner: Naveen 
+Values: 3.8 out of 16.9 
+Percent used: 22% 
+
+DESKTOP_RXCLAIM_ELIGIBILITY 
+Owner: Shweta 
+Values: 2.5 out of 22.3 
+Percent used: 11% 
+
+DESKTOP_LINKS_MAILORDER 
+Owner: Naveen 
+Values: 1.6 out of 14.7 
+Percent used: 10% 
+
+DESKTOP_CAS_ADMIN 
+Owner: Tokmakjian Dikran 
+Values: 1.5 out of 14.9 
+Percent used: 10% 
+
+SPP_WFO 
+Owner: Pradeep Muppidi 
+Values: 0.1 out of 5.3 
+Percent used: 1% 
+
