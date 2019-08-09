@@ -1,0 +1,7 @@
+Virtual Environment "HOW-TO"
+
+1. python -m venv <Name of folder> 
+ 2. <Name of folder> /Scripts/activate
+3. deactivate
+
+4. pip install spyder-kernels==0.*

@@ -1,0 +1,29 @@
+//span[text()='Request Due Date']/parent::label/following-sibling::div//input[@type='text']
+
+
+//span[text()='Contractual Due Date']/parent::label/following-sibling::div//input[@type='text']
+
+title="Sales Initiated"
+
+
+
+C_SELECT_LOOKUPVALUE
+
+
+
+//span[text()='Resolution Response']/parent::span//following-sibling::div/child::div/child::div/child::div/child::a[@class='select']
+
+
+ //span[text()='Account Name']/parent::label//following-sibling::div/child::div/child::div/child::div/child::input[@role ='option']
+
+
+//span[text()='Account Name']/parent::label//following-sibling::div/child::div/child::div/child::div/child::div/child::div/child::ul/child::li/child::a[@role ='option']
+
+
+//span[text()='']/parent::label/following-sibling::div//input[@type='']
+
+//*[@class = 'shop_link' ]/parent::li/parent::ul/parent::div[@id = 'mobile_nav']
+
+//*[text() = 'Workbrain - Employee Transaction Manager']/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div[@class = 'tools-flyout']
+
+//div[@class = 'tools-flyout']/div/div/div/div/div/following-sibling::div/following-sibling::div/following-sibling::div/following-sibling::div/following-sibling::div/following-sibling::div/following-sibling::div/following-sibling::div/following-sibling::div/a[@id = '1565110581552']
